@@ -1,3 +1,5 @@
+I used VirtualBox becuse VB allows you to use VirtualBox’s virtualization to provide a clean build environment for every build. I used Linux system ```Ubuntu 14.04``` for this homework . The only requirement is that the virtual machine exposes its``` SSH server ``` and provide a bash-compatible shell. Than install OpenMP ```$ git clone https://github.com/clang-omp/llvm ```
+
 # Hello World
 
 ![](https://github.com/HebahAlshamlan/Prallel-programming/blob/master/HW/1.jpg)
